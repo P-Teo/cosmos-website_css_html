@@ -76,4 +76,4 @@ The Internet is a global network that allows users to communicate and access inf
 ## Disclaimer
 
 All images, media, and informational content used in this website were sourced from public platforms such as **Wikipedia, Pinterest, and other online resources**.  
-These materials do **not belong to the author** and are used for **educational purposes only**.
+These materials are used for **educational purposes only**.
